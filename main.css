@@ -1,0 +1,62 @@
+
+
+html {
+    font-size: 90%;
+    font-weight: bold;
+    color:aliceblue
+}
+
+.A {
+    font-family: cursive;
+}
+.kzh {
+    color: rgb(67, 39, 42);
+    font-size: 30%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.diluc {
+    color: rgb(149, 207, 193);
+    font-size: 30%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.box1 {
+    background-color:#648778;
+    float: left;
+    padding-left: 20px;
+    width: 400px;
+    margin-right: 20px;
+    margin-left: 200px;
+    font-size: 5rem;
+}
+
+.box2 {
+    background-color: #654242;
+    float: left;
+    padding-left: 20px;
+    width: 400px;
+    margin-right: 5px;
+    font-size: 5rem;
+    
+}
+
+#kzhcard {
+    border:2px dashed #654242;
+    padding:10px;
+    margin:15px 30px 
+}
+
+#diluccard {
+    border:2px dashed #648778;
+    padding:10px;
+    margin:15px 30px 
+}
+
+p {
+    font-size: 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 20px;
+}
+#kzhdes {
+    margin-bottom: 30px;
+}
